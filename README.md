@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaniaHub
+- 👋 Hi, I’m @Rania El Mahjoubi
 - 👀 I’m interested in embedded systems 
 - 🌱 I’m currently learning advanced embedded programing 
 - 💞️ I’m looking to collaborate with other embedded systems engineers
